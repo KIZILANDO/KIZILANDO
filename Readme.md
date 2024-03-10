@@ -20,3 +20,4 @@
 
 ## 📊 Stats
 <img src="https://github-readme-stats.vercel.app/api?username=KIZILANDO&show_icons=true&theme=tokyonight" alt="KIZILANDO" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=KIZILANDO&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="KIZILANDO" />
