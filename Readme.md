@@ -1,6 +1,8 @@
 # Hey 👋, I'm KIZILANDO
 ## A passionate Python developer and Unreal Engine modder
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/625014088413610005)](https://discord.com/users/625014088413610005)
+
 <details>
   <summary><h3>👨‍💻 About me</h3></summary>
   I'm KIZILANDO (15), I was always very interested in programming in general, I started learning Python when I was 10, then Java (modifying the game's code). And now, I'm learning C# and UE5 modding.
