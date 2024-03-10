@@ -1,7 +1,7 @@
 # Hey 👋, I'm KIZILANDO
 ## A passionate Python developer and Unreal Engine modder
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/625014088413610005?idleMessage=:Working!)](https://discord.com/users/625014088413610005)
+[![Discord Presence](https://lanyard.cnrad.dev/api/625014088413610005?idleMessage=Working!)](https://discord.com/users/625014088413610005)
 
 <details>
   <summary><h3>👨‍💻 About me</h3></summary>
