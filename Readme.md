@@ -3,6 +3,8 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/625014088413610005?idleMessage=Working!)](https://discord.com/users/625014088413610005)
 
+[![Spotify](https://spotify-topaz-xi.vercel.app/api/spotify)](https://open.spotify.com/user/31c3hezyfu3chc2lp2a6kfmew2wy)
+
 <details>
   <summary><h3>👨‍💻 About me</h3></summary>
   I'm KIZILANDO (15), I was always very interested in programming in general, I started learning Python when I was 10, then Java (modifying the game's code). And now, I'm learning C# and UE5 modding.
