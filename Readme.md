@@ -3,7 +3,7 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/625014088413610005?idleMessage=Working!)](https://discord.com/users/625014088413610005)
 
-[![Spotify](https://spotify-topaz-xi.vercel.app/api/spotify)](https://open.spotify.com/user/31c3hezyfu3chc2lp2a6kfmew2wy)
+[![Spotify](https://spotify-topaz-xi.vercel.app/api/spotify/?border_color=008000)](https://open.spotify.com/user/31c3hezyfu3chc2lp2a6kfmew2wy)
 
 <details>
   <summary><h3>👨‍💻 About me</h3></summary>
